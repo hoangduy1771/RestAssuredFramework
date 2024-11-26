@@ -26,7 +26,7 @@ public class GetAndPostExamples {
     @Test
     public void testPost() {
 
-        Map<String, Object> body = new HashMap<String, Object>();
+//        Map<String, Object> body = new HashMap<String, Object>();
 //        body.put("name", "Duy");
 //        body.put("job", "Student");
 //
